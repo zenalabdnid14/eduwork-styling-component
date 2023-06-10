@@ -1,15 +1,19 @@
-.bg-image {
-    height: 100vh;
-    background: url("../../public/images/bg2.jpg");
-    background-size: cover;
-}
-
 .navlink {
     margin-right: 30px;
 }
 
 .navbarbrand {
     font-weight: 600;
+}
+
+.navlink:hover {
+    font-weight: 500;
+}
+
+.bg-image {
+    height: 100vh;
+    background: url("../../public/images/bg2.jpg");
+    background-size: cover;
 }
 
 .intro {
@@ -34,13 +38,13 @@
     margin: 4px;
 }
 
-.bio {
-    height: 200px;
+.kelasbio {
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .bg-bio {
-    height: 50vh;
+    height: 60vh;
 }

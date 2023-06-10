@@ -7,7 +7,7 @@ const Intro = () => {
             <Container className='d-flex'>
                 <Row>
                     <Col>
-                        <div className="paragraf">-- Hello</div>
+                        <div className="paragraf">Hello</div>
                         <div className="title">I'm <span className='text-danger'>Zenal</span> Abidin</div>
                         <div className="paragraf">Berpengalaman sebagai Front End Website Developer. </div>
                         <div className="paragraf">Memiliki pengetahuan mendalam akan MERN Stack.</div>

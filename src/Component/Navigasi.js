@@ -15,7 +15,6 @@ const Navigasi = () => {
                         <Nav.Link className="navlink text-secondary">Resume</Nav.Link>
                         <Nav.Link className="navlink text-secondary">Blog</Nav.Link>
                         <Nav.Link className="navlink text-secondary">Contact</Nav.Link>
-                        <Nav.Link>Contact</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
